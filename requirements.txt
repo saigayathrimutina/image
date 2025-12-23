@@ -1,1 +1,1 @@
-streamlit
+pip install transformers torch pillow
